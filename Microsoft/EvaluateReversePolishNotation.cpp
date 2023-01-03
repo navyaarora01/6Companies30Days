@@ -42,7 +42,6 @@ public:
                 st.push(data);
             }
         }
-
         return st.top();
     }
 };
