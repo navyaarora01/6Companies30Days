@@ -1,6 +1,6 @@
 //Microsoft Series
 //Question 2
-//link - https://leetcode.com/problems/combination-sum-iii/post-solution/
+//link - https://leetcode.com/problems/combination-sum-iii/description/
 //submission Link - https://leetcode.com/problems/combination-sum-iii/solutions/2994059/c-optimised-solution-backtracking/
 
 class Solution {
